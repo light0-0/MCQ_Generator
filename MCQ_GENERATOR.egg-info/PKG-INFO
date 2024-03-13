@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: MCQ-GENERATOR
+Version: 0.0.1
+Author: hardik bhagat
+Author-email: bhagathardik1000@gmail.com
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
