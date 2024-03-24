@@ -12,7 +12,7 @@ from src.MCQ_generator.logger import logging
 
 
 #loading json file
-with open('C:\Hardik\Ai_tools\mcq_with_python3.10\MCQ_Generator\Response.json', 'r') as file:
+with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 #creating a title
