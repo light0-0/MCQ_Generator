@@ -31,7 +31,7 @@ with st.form("user_inputs"):
 
 
 if button and uploaded_file is not None and mcq_count and subject and tone:
-    with st.spinner("Please wait i am Performing a Miracle"):
+    with st.spinner("Loading..."):
         try:
             text = read_file(uploaded_file)
 
